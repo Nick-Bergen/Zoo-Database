@@ -1,0 +1,3 @@
+
+EXEC STP_LeegStagingAreaTabel
+GO

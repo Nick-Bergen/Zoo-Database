@@ -1,0 +1,13 @@
+{
+    "DIERSOORT": [{
+                "LATIJNSENAAM": "Alligator mississippiensis",
+                "NORMALENAAM": "mississippialligator",
+                "FOTO": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/93\/American_Alligator_at_Lake_Woodruff_-_Flickr_-_Andrea_Westmoreland.jpg\/1280px-American_Alligator_at_Lake_Woodruff_-_Flickr_-_Andrea_Westmoreland.jpg"
+            }, {
+                "LATIJNSENAAM": "Argynnis paphia",
+                "NORMALENAAM": "keizersmantel",
+                "EDUTEKST": "De keizersmantel (Argynnis paphia) is een vlinder uit de familie Nymphalidae, de vossen, parelmoervlinders en weerschijnvlinders.   De keizersmantel is een grote en opvallende vlinder met een vleugellengte van 27 tot 35 mm.   Aan de enterhaakvormige vlekken op bovenkant van de vleugels kan men de mannetjes herkennen.   De onderkant van de achtervleugel is groenig met zilverkleurige strepen."
+            }, {
+                "LATIJNSENAAM": "Canis lupus",
+                "EDUTEKST": "De wolf (Canis lupus), meer specifiek de grijze wolf, is een zoogdier uit de familie hondachtigen (Canidae), die behoort tot de roofdieren (Carnivora).   De wolf komt op het noordelijk halfrond voor.    Er worden meerdere ondersoorten onderscheiden, waaronder enkele die zijn uitgestorven.    De wolf leeft in groepen met een sociale structuur.   De wolf is de voorouder van de hond (Canis lupus familiaris).    Een wolf en een hond kunnen samen vruchtbare nakomelingen voortbrengen, zodat ze, volgens een gangbaar soortbegrip in de biologie, tot dezelfde soort kunnen worden gerekend."
+            }]}
